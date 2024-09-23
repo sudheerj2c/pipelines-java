@@ -1,1 +1,3 @@
-testing purpose
+template = {
+  version = "v19.32.0"
+}
